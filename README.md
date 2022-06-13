@@ -2,7 +2,7 @@
 - 👀  I’m interested in Web Development
 - 🌱  I’m currently learning HTML,CSS,Javascript and C++
 - 💞️  I’m looking to collaborate on various projects
-- 📫  Reach me on [Instagram](LinkedIn)
+- 📫  Reach me on [Instagram](https://www.instagram.com/j.mdzain/)
 
 <!---
 Muhammed-Zain/Muhammed-Zain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
